@@ -23,7 +23,7 @@ const NavOptions = () => {
         />
       </Text>
       <View
-        style={{
+        style={{  
           flexDirection: "row",
           alignItems: "center",
           marginHorizontal: 25,
